@@ -46,7 +46,8 @@ p{
 }
 
 .big-width{
-    width: 60%;
+    width: 40%;
+    margin-right: auto;
 }
 .small-width{
     width: 40%;
